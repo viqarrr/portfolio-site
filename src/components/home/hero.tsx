@@ -87,7 +87,7 @@ export default function Hero() {
 
           {/* Brief Description */}
           <motion.div
-            className="max-w-[700px] text-lg md:text-xl text-muted-foreground flex"
+            className="max-w-[700px] text-lg md:text-xl text-muted-foreground flex items-center"
             variants={item}
           >
             I create
