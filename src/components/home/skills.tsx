@@ -144,7 +144,7 @@ export default function Skills() {
   const isInView = useInView(ref, { once: true, amount: 0.2 });
 
   return (
-    <section className="mx-auto px-4 py-16 md:py-20 max-w-md md:max-w-4xl relative overflow-hidden">
+    <section className="mx-auto px-4 py-16 md:py-20 max-w-xs md:max-w-4xl relative overflow-hidden">
       <div className="container px-4 md:px-6 relative z-10">
         <motion.div
           ref={ref}
