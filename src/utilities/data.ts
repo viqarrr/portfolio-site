@@ -30,7 +30,7 @@ export const projectsData: ProjectItem[] = [
       "Ensuring seamless UI state synchronization with the database was a core challenge. Handling form input validation, and conditional rendering for different user actions, required careful React state management and component structuring.",
     image: "/scrollshelf.png",
     tech: ["React", "Redux", "MongoDB", "Node.js", "Express", "Tailwind CSS"],
-    github: "https://github.comhttps://github.com/viqarrr/bookshelf-app",
+    github: "https://github.com/viqarrr/bookshelf-app",
     live: "https://scrollshelf-achpyf6fa-viqars-projects-a69aa45f.vercel.app/",
     slug: "scrollshelf",
   },
