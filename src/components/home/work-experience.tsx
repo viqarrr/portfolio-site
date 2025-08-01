@@ -28,7 +28,7 @@ const experiences = [
     title: "Lead Game Programmer",
     company: "Infinity GameWorks",
     location: "Surabaya, Indonesia",
-    period: "December 2024 - Now",
+    period: "December 2023 - Now",
     skills: ["Unity", "C#"],
     description:
       "As a Game Programmer, I developed gameplay features and handled debugging tasks using Unity and C#, while collaborating closely with the Game Design and Art teams to ensure smooth technical integration and effective problem-solving.",
