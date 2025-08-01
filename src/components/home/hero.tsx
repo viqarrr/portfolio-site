@@ -112,7 +112,7 @@ export default function Hero() {
               transition={{ type: "spring", stiffness: 400, damping: 17 }}
             >
               <Button asChild size="lg" className="rounded-full px-8">
-                <a href="https://bit.ly/cv-viqar">Download Resume</a>
+                <a href="https://s.id/cv-viqar">Download Resume</a>
               </Button>
             </motion.div>
             <motion.div
