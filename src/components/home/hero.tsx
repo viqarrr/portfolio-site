@@ -145,7 +145,7 @@ export default function Hero() {
               <span className="sr-only">GitHub</span>
             </motion.a>
             <motion.a
-              href="www.linkedin.com/in/viqar-mulya/"
+              href="https://www.linkedin.com/in/viqar-mulya/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full bg-background/80 backdrop-blur-sm border shadow-sm hover:bg-muted/80 transition-colors"
